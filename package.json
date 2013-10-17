@@ -1,0 +1,8 @@
+{
+	"name":"text-classifier",
+	"description": "neural network based literary text classification by author",
+	"dependencies": {
+		"node.io":"0.5.1",
+		"mongoose":""
+	}
+}
