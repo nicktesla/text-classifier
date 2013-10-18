@@ -1,0 +1,1 @@
+//take in a new piece of text and spit out the author

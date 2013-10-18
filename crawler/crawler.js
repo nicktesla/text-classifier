@@ -1,7 +1,7 @@
 var nodeio, linksOnPage, lyricsFromLink, db;
 
 nodeio = require('node.io');
-db = require('./db');
+db = require('../db/db');
 db.loadDB();
 
 var loadSong =  function(artist, title, lyrics){
